@@ -208,7 +208,7 @@ section .title::after {
   z-index: 1;
   position: absolute;
   right: 2%;
-  top: 655px;
+  top: 530px;
   max-width: 50px;
   background: #fda218;
   color: #ffffff;
