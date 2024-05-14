@@ -832,3 +832,7 @@ footer span a:hover {
     line-height: 38px;
   }
 }
+
+@media screen and (max-width: 600px) {
+  
+}
